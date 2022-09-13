@@ -39,7 +39,7 @@ Different arrays of different data types are used in the program. For example, a
 ![Capture3](https://user-images.githubusercontent.com/87219816/178435723-56f15288-0ba6-445f-a341-aa9757e3074b.PNG)
 ![Capture4](https://user-images.githubusercontent.com/87219816/178435989-c2d8deb9-bf4f-4636-b679-5b64761d7c1b.PNG)
 
-### Author
-- <a href="http://daoud-hussain.com/"> Daoud Hussain </a>
+### Developer
+- <a href="https://daoudhussain.tech/"> Daoud Hussain </a>
 
  **💬 All the project is fully Open-Sourced. Show some love by giving it a STAR🌟.**
